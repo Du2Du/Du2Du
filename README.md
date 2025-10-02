@@ -1,4 +1,4 @@
-### Hi there 👋 I am Eduardo Hilário
+### Olá 👋 eu sou o Eduardo Hilário
 
 <p>
   Sou um desenvolvedor Fullstack 💻, estudante de Bacharelado em Sistemas de Informação 🎓. Atualmente, trabalho como Desenvolvedor Fullstack na Mindify.
